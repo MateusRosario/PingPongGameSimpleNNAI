@@ -1,8 +1,8 @@
 **PingPong Game com simples Redes Neurais**
 
-Este é um pequeno projeto que fiz durante meu 4º semestre na graduação para aprender 
+Este é um pequeno projeto que fiz durante meu 5º semestre na graduação para aprender 
 sobre inteligências artificiais e redes neurais. Havia feito este game tipo PingPong
-um ano antes. Com base no game, construí um simples sistema para construir pequenas
+um ano antes ([Game Base Repo](https://github.com/MateusRosario/PingPongSimpleGame)). Com base no game, construí um simples sistema para construir pequenas
 redes neurais e uma ‘interface’ para que os _Output_ das redes pudessem controlar o game.
 
 ![img_1.png](img_1.png)
